@@ -1,0 +1,45 @@
+body{
+    background: rgb(238, 231, 231);
+    padding: 0px;
+    margin: 0px;
+    font:16px Arial, Sans-serif;
+}
+.contenido{width: 92%; overflow: hidden; margin: auto;}
+ul{padding: 0px; margin: 0px;}
+button{height: 35px; background: rgba(255, 0, 0, 0.89);border: 0px;padding-left: 20px;padding-right: 20px;color: white;margin-top: 160px;}
+header{
+    background: rgb(26, 25, 25); color: white; padding-top: 20px; min-height: 70px;
+}
+header #music p{float: left; margin: 0px; color: rgba(25, 81, 236, 0.808); font-weight: bold;font-size: 40px; margin-left:30px;}
+header .clor{color: rgba(34, 226, 82, 0.781);}
+header nav{float: right; margin-top: 0px;margin-right: 10%;}
+header a{font-size: 18px; color: white; text-decoration: none;}
+header li{float: left; display: inline; padding: 0px 15px 0px 15px;margin-right: 15px;}
+#imagen{min-height: 400px; background: url('../img/images123.jpg')no-repeat;background-size: cover;}
+#imagen h3{margin-top: 0px; padding-top: 60px; text-align: center; color: white; font-size: 45px;}
+#conten{margin-top: 30px;}
+#conten .contenedor img{width: 200px; height: 200px;}
+#conten .contenedor{width: 30%;padding: 10px; text-align: center; float: left;font-style: italic;}
+#Subcripcion,#prueba{text-align: center;font-weight: 800;font-size: 60px;}
+#Subcripcion #p, h1 a{color: rgba(25, 81, 236, 0.808)}
+#Subcripcion #p1,#p2,#info #mail{color: rgba(245, 123, 9, 0.808)}
+#Subcripcion .clor,#info a, .contenido .clor{color: rgba(34, 226, 82, 0.781)}
+#color{height: 60px;background: rgba(255, 0, 0, 0.89);border: 1px;padding-left: 20px;padding-right: 20px;color: white;margin: 20px 0px 60px 0px;font-size: 36px;}
+#contacto{min-height: 200px; background: url('../img/images\ \(4\).jpg')no-repeat;background-size: cover;}
+#contacto h1{margin-top: 0px; padding-top: 30px; text-align: center; font-size: 45px;}
+#contacto h3{font-style: italic;text-align: center;padding-top: 20px;}
+#conten .contenedor .forma{width: 100px; height: 100px;}
+#info{margin-top: 20px;}
+.info{font-size: 25px; width: 55%;}
+.info1, h4{font-size: 22px; width: auto;text-align: center;}
+.info a, .info1{padding: 10px; margin: 10px;}
+.info1 h4{color: red; font-size: xx-large;}
+#form{width: 40%;margin-left: 30px;}
+.controls {width: 400px;background: #ccd4dd;padding: 10px;border-radius: 4px;margin-bottom: 16px;border: 1px solid #1f53c5;font-family: 'calibri';font-size: 18px;color: white;}
+#form .botons {width: 20%;background: #1f53c5;border: none;padding: 12px;color: white;margin: 16px 0;font-size: 16px;}
+.breadcrumb{margin-top: 10px;}
+.breadcrumb li {display: inline;font-size: 22px;}
+.breadcrumb li+li:before {padding: 2  px;color: black;content:">\00a0";}
+.breadcrumb li a {color: #0275d8;text-decoration: none;}
+footer .forma1{width: 25px; height: 25px;margin-left: 10px;}
+footer{background:rgb(26, 25, 25); color: white; text-align: center;padding: 10px; margin-top: 10px;}
